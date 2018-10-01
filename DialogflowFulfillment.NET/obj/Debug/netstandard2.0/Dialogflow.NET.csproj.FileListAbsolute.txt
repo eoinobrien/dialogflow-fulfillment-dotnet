@@ -1,0 +1,8 @@
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\bin\Debug\netstandard2.0\Dialogflow.NET.deps.json
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\bin\Debug\netstandard2.0\Dialogflow.NET.dll
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\bin\Debug\netstandard2.0\Dialogflow.NET.pdb
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\obj\Debug\netstandard2.0\Dialogflow.NET.csproj.CoreCompileInputs.cache
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\obj\Debug\netstandard2.0\Dialogflow.NET.AssemblyInfoInputs.cache
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\obj\Debug\netstandard2.0\Dialogflow.NET.AssemblyInfo.cs
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\obj\Debug\netstandard2.0\Dialogflow.NET.dll
+C:\Users\eoobrien\Documents\gitrepos\dialogflow-dotnet\Dialogflow.Net\obj\Debug\netstandard2.0\Dialogflow.NET.pdb
